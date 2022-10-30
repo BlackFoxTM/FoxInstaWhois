@@ -27,7 +27,7 @@ cd FoxInstaWhois
 ```
 
 ```
-python3 Fox-InstaWhois
+python3 Fox-InstaWhois.py
 ```
 
 ## Try Another Script : [BlackFoxSecurityTeam](https://t.me/BlackFoxSecurityTeam)
